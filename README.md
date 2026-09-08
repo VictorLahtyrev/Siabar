@@ -114,7 +114,7 @@ host-based routing (subdomains), database-per-service.
 - ✅ Каталог привилегий (SEC-13)
 - ✅ Event-driven архитектура (ARCH-07)
 - ✅ UX-паттерны (FE-13)
-- 🔄 Реализация backend (C# / ASP.NET Core)
+- ✅ Реализация backend (C# / ASP.NET Core)
 - 🔄 Реализация frontend (Angular)
 - 🔄 Интеграционное тестирование
 - ⏳ MVP (минимально жизнеспособный продукт)
@@ -132,12 +132,11 @@ host-based routing (subdomains), database-per-service.
 - ⏳ Service discovery (Consul / K8s)
 - ⏳ Kubernetes (опционально)
 
-## 🔐 Доступ
+### 🔐 Доступ
 
-Этот репозиторий **приватный** (limited access). Доступ предоставляется
-автором проекта для collaborators.
+Этот репозиторий является **публичным для просмотра**, но имеет **ограниченный доступ к исходному коду (Limited Access)**. Вносить изменения и скачивать определенные связанные материалы могут только официальные соавторы (*Collaborators*).
 
-Для запроса доступа: свяжитесь с автором (см. контакты ниже).
+Для запроса доступа к разработке или приватным материалам свяжитесь с автором (см. контакты ниже).
 
 ## 📝 Соглашения
 
@@ -158,7 +157,7 @@ host-based routing (subdomains), database-per-service.
 
 ## 👤 Автор
 
-**Viktor Lahtyrev**
+**Виктор Лахтырев**
 - Email: victor.lahti@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/viktor-lahtyrev-08531333a/
 - GitHub: https://github.com/VictorLahtyrev
